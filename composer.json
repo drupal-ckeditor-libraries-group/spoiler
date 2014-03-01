@@ -1,0 +1,16 @@
+{
+  "name": "drupal-ckeditor-libraries-group/spoiler",
+  "description": "CKEditor 4 spoiler plugin",
+  "type": "drupal-library",
+  "keywords": ["ckeditor", "plugin", "spoiler"],
+  "homepage": "https://github.com/zetamen/ckeditor-spoiler",
+  "license": [
+    "GPL-2.0-or-later",
+    "LGPL-2.1-or-later",
+    "MPL-1.1"
+  ],
+  "support": {
+    "issues": "https://github.com/zetamen/ckeditor-spoiler/issues",
+    "source": "https://github.com/zetamen/ckeditor-spoiler/tree/master"
+  }
+}
